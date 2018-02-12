@@ -1,4 +1,4 @@
-""" Script To Copy Spotlight(Lockscreen) Images from Windows """
+""" Script To Copy the set of current Spotlight(Lockscreen) Images from Windows """
 import os
 import shutil
 import errno
